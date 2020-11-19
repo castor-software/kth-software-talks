@@ -29,16 +29,16 @@ When the event is published, send the actual link to Martin, Benoit, and maybe t
 
 #### If the meetup is hosted online
 
-If you are the host of the Zoom meeting, remmember to start the meeting in advance (e.g., 5 mins before the event starts). It's also good to add someone as an alternative host, just in case you are not available during the meeting.
+If you are the host of the Zoom meeting, remember to start the meeting in advance (e.g., 5 mins before the event starts). It's also good to add someone as an alternative host, just in case you are not available during the meeting.
 
 #### If the meetup is hosted on site
 
-For some meeting rooms (e.g., room 4523 on our floor), external participants need our help to get inside the corridor. You can put a poster which contains your contact information at the entry door. In this way, a participant could make a call to you if he/she arrives too early. You could also wait a little bit around the entry before the event starts.
+For some meeting rooms (e.g., room 4523 on our floor), external participants need our help to get inside the corridor. You can put a card which contains your contact information at the entry door. In this way, a participant could make a call to you if he/she arrives too early. You could also wait a little bit around the entry before the event starts.
 
 ## Key Links
 
 - The main page of the KTH Software Research Meetup: https://www.meetup.com/KTH-Software-Research-Meetup/
 - The folder that contains the logistic files: https://kth.box.com/s/006a543a96viwwbv4y0id85zw1d67xp6 (Permission needed)
   - KTH Software Research Meetup Cover Picture
-  - Poster Template for the Entry of the Floor
+  - Contact Card at the Entry of the Floor
   - Arrows for Pointing the Direction
